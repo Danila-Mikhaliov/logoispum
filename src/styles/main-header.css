@@ -23,6 +23,10 @@
   letter-spacing: -0.5314737558364868px;
   text-align: center;
 }
+.main-navigation__link:hover{
+  text-decoration: var(--main-blue) underline 2px;
+}
+
 .main-header .get__started{
   background-color: var(--main-orange);
   color: white;
