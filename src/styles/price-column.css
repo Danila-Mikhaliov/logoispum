@@ -4,6 +4,7 @@
   display: flex;
   flex-direction: row;
   justify-content: space-around;
+  align-items: center;
   max-height: 500px;
   align-items: flex-end;
 }
@@ -14,15 +15,21 @@
   align-items: center;
   width: 376px;
   height: 473px;
+  background-color: #f8f8f8;
+  border-radius: 10px;
+  height: 441px;
+  width: 330px;
 }
 .price-column__type:nth-child(2) {
   background-color: var(--main-orange);
   color: white;
   border-radius: 10px;
   align-self: flex-start;
+  height: 473px;
+  width: 376px;
 }
 .price-column__name:nth-child(2) {
-  color: white;
+  color: red;
   font-size: 300px;
 }
 .price-column__price-month {
