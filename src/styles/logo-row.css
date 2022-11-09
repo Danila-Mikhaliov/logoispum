@@ -1,0 +1,11 @@
+.logo-row {
+    margin-bottom: 150px;
+}
+.logo-row__container {
+    display: flex;
+    justify-content: space-between;
+}
+.logoipsum-logo {
+    display: inline-block;
+
+}

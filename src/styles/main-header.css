@@ -1,0 +1,30 @@
+.main-header__inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 100px;
+}
+.logoipsum-logo {
+  display: inline-flex;
+}
+.main-navigation {
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-basis: 37.7%;
+}
+.main-navigation__link {
+  color: black;
+  text-decoration: none;
+  font-family: DM Sans;
+  font-size: 17px;
+  font-weight: 700;
+  line-height: 22px;
+  letter-spacing: -0.5314737558364868px;
+  text-align: center;
+}
+.main-header .get__started{
+  background-color: var(--main-orange);
+  color: white;
+
+}

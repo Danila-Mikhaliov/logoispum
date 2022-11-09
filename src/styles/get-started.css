@@ -1,0 +1,12 @@
+.get__started {
+    border: none;
+    border-radius: 10px;
+    width: 210px;
+    height: 60px;
+    font-family: "DM Sans";
+    font-size: 17px;
+    font-weight: 700;
+    text-align: center;
+    justify-content: center;
+    color: white;
+  }

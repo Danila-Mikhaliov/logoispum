@@ -1,0 +1,35 @@
+.column-row{
+  margin-top: 140px;
+  margin-bottom: 150px;
+}
+.column-row__container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.column {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.column__image {
+  max-width: 157px;
+  max-height: 97px;
+  margin-bottom: 20px;
+}
+.column__title {
+  max-width: 172px;
+  max-height: 36px;
+  margin-bottom: 20px;
+}
+.column__subtitle {
+  text-align: center;
+  max-width: 307px;
+  max-height: 48px;
+  letter-spacing: -0.500211px;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
